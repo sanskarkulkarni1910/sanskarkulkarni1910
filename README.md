@@ -19,7 +19,6 @@
 ---
 
 
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -41,26 +40,25 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Analysis
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskarkulkarni1910&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarkulkarni1910&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarkulkarni1910&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
-### 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanskarkulkarni1910&theme=radical&no-frame=true&margin-w=4" />
-</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanskarkulkarni1910&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sanskarkulkarni1910&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarkulkarni1910&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanskarkulkarni1910&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+---
+
 
 ### 🌐 Connect with Me
 <p align="center">
