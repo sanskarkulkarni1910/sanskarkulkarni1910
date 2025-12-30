@@ -14,14 +14,14 @@
 ---
 
 ### 📂 Profile.json
-```json```
-{
-  "name": "Sanskar Kulkarni",<br>
-  "alias": "The Debugger",<br>
-  "role": "Full Stack Developer",<br>
-  "location": "Maharashtra, India",<br>
-  "philosophy": "I break code 10 times, but I fix it 11 times",<br>
-  "specialization": ["Web Dev", "UI/UX", "System Architecture"]<br>
+```json```<br>
+{<br>
+  &nbsp;&nbsp;"name": "Sanskar Kulkarni",<br>
+  &nbsp;&nbsp;"alias": "The Debugger",<br>
+  &nbsp;&nbsp;"role": "Full Stack Developer",<br>
+  &nbsp;&nbsp;"location": "Maharashtra, India",<br>
+  &nbsp;&nbsp;"philosophy": "I break code 10 times, but I fix it 11 times",<br>
+  &nbsp;&nbsp;"specialization": ["Web Dev", "UI/UX", "System Architecture"]<br>
 }
 
 ---
