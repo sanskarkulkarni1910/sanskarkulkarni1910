@@ -34,11 +34,11 @@
 
 🚀 <b>What I’m Working On</b><br><br>Building practical web projects to strengthen my full-stack skills<br>Exploring modern web technologies through hands-on development<br>Improving project structure, code quality, and maintainability<br><br>
 
-🤝 <b>Open to Collaboration</b><br><br>I am actively looking for:<br>Open-source project collaborations<br><br>Interesting web development project ideas<br>Projects that help me learn new tools, frameworks, and best practices<br>If you are working on something meaningful or learning-focused, I’d love to collaborate.<br><br>
+🤝 <b>Open to Collaboration</b><br><br>I am actively looking for:<br>Open-source project collaborations<br>Interesting web development project ideas<br>Projects that help me learn new tools, frameworks, and best practices<br>If you are working on something meaningful or learning-focused, I’d love to collaborate.<br><br>
 
-📚 <b>What I Want to Improve</b><br><br>Advanced JavaScript concepts<br>Better UI/UX design practices<br><br>Writing clean, scalable, and well-structured code<br>Building production-ready projects with proper architecture<br><br>
+📚 <b>What I Want to Improve</b><br><br>Advanced JavaScript concepts<br>Better UI/UX design practices<br>Writing clean, scalable, and well-structured code<br>Building production-ready projects with proper architecture<br><br>
 
-💻 <b>Skills & Topics You Can Ask Me About</b><br><br>HTML, CSS, JavaScript<br><br>Beginner-friendly project ideas<br>Step-by-step approach to learning web development<br>Turning small ideas into working projects<br><br>
+💻 <b>Skills & Topics You Can Ask Me About</b><br><br>HTML, CSS, JavaScript<br>Beginner-friendly project ideas<br>Step-by-step approach to learning web development<br>Turning small ideas into working projects<br><br>
 
 🧠 <b>How I Learn</b><br><br>I learn new technologies faster by building projects instead of relying only on theory.<br>I’m not afraid of breaking things because debugging and fixing errors teaches me the most.<br>I break code 10 times, but I fix it 11 times.
 
