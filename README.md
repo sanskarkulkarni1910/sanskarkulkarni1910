@@ -16,12 +16,12 @@
 ### 📂 Profile.json
 ```json```
 {
-  "name": "Sanskar Kulkarni",
-  "alias": "The Debugger",
-  "role": "Full Stack Developer",
-  "location": "Maharashtra, India",
-  "philosophy": "I break code 10 times, but I fix it 11 times",
-  "specialization": ["Web Dev", "UI/UX", "System Architecture"]
+  "name": "Sanskar Kulkarni",<br>
+  "alias": "The Debugger",<br>
+  "role": "Full Stack Developer",<br>
+  "location": "Maharashtra, India",<br>
+  "philosophy": "I break code 10 times, but I fix it 11 times",<br>
+  "specialization": ["Web Dev", "UI/UX", "System Architecture"]<br>
 }
 
 ---
