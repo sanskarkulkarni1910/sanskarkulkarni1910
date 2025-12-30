@@ -22,7 +22,7 @@
   "location": "Maharashtra, India",
   "philosophy": "I break code 10 times, but I fix it 11 times",
   "specialization": ["Web Dev", "UI/UX", "System Architecture"]
-}
+}```
 
 ---
 
