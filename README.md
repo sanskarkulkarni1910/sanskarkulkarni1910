@@ -14,7 +14,7 @@
 ---
 
 ### 📂 Profile.json
-```json
+```json```
 {
   "name": "Sanskar Kulkarni",
   "alias": "The Debugger",
@@ -22,16 +22,24 @@
   "location": "Maharashtra, India",
   "philosophy": "I break code 10 times, but I fix it 11 times",
   "specialization": ["Web Dev", "UI/UX", "System Architecture"]
-}```
+}
 
 ---
 
 ## 🌐 Connect with Me:
 <p align="center">
-<a href="https://linkedin.com/in/Sanskar Kulkarni" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/sanskar_k_2402" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://facebook.com/sanskar kulkarni" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:sanskarkulkarni1910@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sanskarkulkarni" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/sanskar_k_2402" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/sanskarkulkarni" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:sanskarkulkarni1910@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
