@@ -53,13 +53,6 @@
 ---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskarkulkarni1910&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
-
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/Sanskar Kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanskar Kulkarni" height="30" width="40" /></a>
@@ -75,3 +68,9 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sanskarkulkarni1910&icon=0&color=0" alt="Visitor Count" />
 </p>
+
+
+---
+
+
+[![](https://visitcount.itsvg.in/api?id=sanskarkulkarni1910&icon=0&color=0)](https://visitcount.itsvg.in)
